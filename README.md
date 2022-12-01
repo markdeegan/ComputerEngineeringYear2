@@ -20,3 +20,5 @@ This also relates to the Microprocessor FUndamentals module and the journey from
 
 Notes on using the C compiler at the command-line
 (compiler.md "Notes on using the C compiler at the command-line")
+
+[I'm a relative reference to a repository file](./compiler.md)
