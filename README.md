@@ -1,4 +1,4 @@
-# ComputerEngineeringYear2
+# Computer Engineering Year 2 - Mark Deegan
 This example was put together to help illustrate the relationship between 
 * .h
 * .c
