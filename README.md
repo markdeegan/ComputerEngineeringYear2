@@ -21,4 +21,4 @@ This also relates to the Microprocessor FUndamentals module and the journey from
 Notes on using the C compiler at the command-line
 (compiler.md "Notes on using the C compiler at the command-line")
 
-[Notes on using the C comp[iler from the command-line](./compiler.md)
+[Notes on using the C compiler from the command-line](./compiler.md)
