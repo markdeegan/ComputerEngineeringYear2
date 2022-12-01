@@ -8,7 +8,7 @@ In addition to the standard use of the C compiler, cc \*.c there are several oth
 Some Notes on using the c compiler
 <ul>
   <li> cc   -P  *.c - invokes the pre-processor only, and produces the assembly language code for the compiled source code in the file hello.s in the current directory. That output could be useful if you were writing an assembly language routine and wanted to see how the compiler went about a similar task.
-  <li> cc   -S  *.c - invokes the pre-processor and compiler only, but not the linker -  the assembled object code for the program is left in the object file hello1.o (for example) in your current directory. You would typically want this output when using make.
-  <li> cc   -c  *.c - 
+  <li> cc   -S  *.c - invokes the pre-processor and compiler only, but not the linker -  
+  <li> cc   -c  *.c - all phases of programme building except the lionker are run, the assembled object code for the program is left in the object file hello1.o (for example) in your current directory. You would typically want this output when using make.
   <li> cc     *.c 
 </ul>
