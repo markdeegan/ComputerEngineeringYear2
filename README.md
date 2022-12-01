@@ -1,12 +1,10 @@
 # ComputerEngineeringYear2
 This example was put together to help illustrate the relationship between 
-<ul> 
-.h
-.c
-.s
-.o
-.out 
-</ul>
+* .h
+* .c
+* .s
+* .o
+* .out 
 
 
 files in C software development.
