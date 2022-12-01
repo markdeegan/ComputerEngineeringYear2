@@ -18,3 +18,5 @@ This also relates to the Microprocessor FUndamentals module and the journey from
 
 ***There are some more comments I need to add to explain the code and how to use it wiht the c compiler etc.***
 
+Notes on using the C compiler at the command-line
+(compiler.md "Notes on using the C compiler at the command-line")
