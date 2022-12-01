@@ -1,12 +1,11 @@
 # ComputerEngineeringYear2
 This example was put together to help illustrate the relationship between 
-<ul>
-.h
-.c
-.s
-.o
-.out 
-</ul>
+<ul> .h
+<ul> .c
+<ul> .s
+<ul> .o
+<ul> .out 
+
 
 files in C software development.
 This also relates to the Microprocessor FUndamentals module and the journey from
