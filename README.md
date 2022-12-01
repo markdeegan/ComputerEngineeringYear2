@@ -16,5 +16,5 @@ This also relates to the Microprocessor FUndamentals module and the journey from
 * Assembler Code
 * Atmel 328p
 
-**There are some more comments I need to add to explain the code and how to use it wiht the c compiler etc.. **
+** There are some more comments I need to add to explain the code and how to use it wiht the c compiler etc.. **
 
