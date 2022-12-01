@@ -10,5 +10,5 @@ Some Notes on using the c compiler
   <li> cc   -P  *.c - invokes the pre-processor only, and produces the assembly language code for the compiled source code in the file hello.s in the current directory. That output could be useful if you were writing an assembly language routine and wanted to see how the compiler went about a similar task.
   <li> cc   -S  *.c - invokes the pre-processor and compiler only, but not the linker -  
   <li> cc   -c  *.c - all phases of programme building except the linker are run, the assembled object code for the program is left in the object file hello1.o (for example) in your current directory. You would typically want this output when using make.
-  <li> cc     *.c 
+  <li> cc     *.c - This command is ueed to create an executable program from C language source files.
 </ul>
